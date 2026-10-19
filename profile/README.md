@@ -2,6 +2,8 @@
 
 Practical plugins and tools for Moodle, built to make course management, content creation and everyday teaching easier.
 
+All plugins started out as genuine requirements; either to solve customer issues, or to augment workflows - or to simply get things done more efficiently as a Moodle admin. 
+
 ## Explore our Moodle plugins
 
 | Browse | What you'll find |
