@@ -2,19 +2,19 @@
 
 Practical plugins and tools for Moodle, built to make course management, content creation and everyday teaching easier.
 
-All plugins started out as genuine requirements; either to solve customer issues, or to augment workflows - or to simply get things done more efficiently as a Moodle admin. 
+Each plugin began with a practical need in client work or Moodle administration. Design and user experience guide the work: every plugin should feel like a natural part of Moodle, however far it extends its capabilities.
 
 ## Explore our Moodle plugins
 
-| Browse | What you'll find |
-| --- | --- |
-| [All Moodle plugins](https://github.com/search?q=org%3A108design+topic%3Amoodle-plugin+fork%3Atrue&type=repositories) | All public Moodle plugins in this organisation. |
-| [Certificates](https://github.com/search?q=org%3A108design+topic%3Amoodle-certificate+fork%3Atrue&type=repositories) | Certificate elements and images from course fields. |
-| [Course fields](https://github.com/search?q=org%3A108design+topic%3Amoodle-customfield+fork%3Atrue&type=repositories) | Custom course fields and certificate image integration. |
-| [H5P tools](https://github.com/search?q=org%3A108design+topic%3Ah5p+fork%3Atrue&type=repositories) | Bulk imports, content migration and activity icons. |
-| [PDF tools](https://github.com/search?q=org%3A108design+topic%3Apdf+fork%3Atrue&type=repositories) | PDF annotation and document activities. |
-| [Course design](https://github.com/search?q=org%3A108design+topic%3Acourse-design+fork%3Atrue&type=repositories) | Activity and section icons. |
-| [Restrictions](https://github.com/search?q=org%3A108design+topic%3Amoodle-availability+fork%3Atrue+is%3Apublic&type=repositories) | Availability restriction plugins. |
-| [GPL v3+](https://github.com/search?q=org%3A108design+topic%3Agplv3+fork%3Atrue&type=repositories) | All GPL v3+ plugins by 108design + contributions |
+[Browse all plugins](https://github.com/search?q=org%3A108design+topic%3Amoodle-plugin+is%3Apublic+archived%3Afalse+fork%3Atrue&type=repositories) · [GPL-licensed plugins and contributions](https://github.com/search?q=org%3A108design+topic%3Agplv3+is%3Apublic+fork%3Atrue&type=repositories)
 
-Please check the README and license in each repository for requirements, installation instructions and terms of use.
+| Explore by topic | What you'll find |
+| --- | --- |
+| [Pages, design & navigation](https://github.com/search?q=org%3A108design+topic%3Amoodle-content-design+is%3Apublic+archived%3Afalse+fork%3Atrue&type=repositories) | Page builders, menus, editor tools and activity or section icons. |
+| [Learning materials & activities](https://github.com/search?q=org%3A108design+topic%3Amoodle-learning-materials+is%3Apublic+archived%3Afalse+fork%3Atrue&type=repositories) | H5P imports and migration, PDF annotation, learner uploads and course downloads. |
+| [Progress & certificates](https://github.com/search?q=org%3A108design+topic%3Amoodle-learning-progress+is%3Apublic+archived%3Afalse+fork%3Atrue&type=repositories) | Completion milestones, certificate text and images from course fields, and flexible dates. |
+| [Access & course sales](https://github.com/search?q=org%3A108design+topic%3Amoodle-access+is%3Apublic+archived%3Afalse+fork%3Atrue&type=repositories) | Passwordless login, access restrictions and rule analysis, course catalogues and paid enrolment. |
+| [Administration & workflows](https://github.com/search?q=org%3A108design+topic%3Amoodle-administration+is%3Apublic+archived%3Afalse+fork%3Atrue&type=repositories) | Bulk plugin installation, activity transfers, H5P migration and JavaScript snippets. |
+| [Support & communication](https://github.com/search?q=org%3A108design+topic%3Amoodle-communication+is%3Apublic+archived%3Afalse+fork%3Atrue&type=repositories) | Support tickets, private notes and Moodle notifications. |
+
+The LE repositories currently contain limited beta previews. Check each repository's README, releases and licence for features, dependencies, compatibility and terms of use.
